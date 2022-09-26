@@ -1,2 +1,2 @@
 # bit
-Commit to the bit
+Use this to commit to the bit
